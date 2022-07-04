@@ -31,7 +31,7 @@ An early version of Simulacra Aesthetic Captions was used to
 [create LAION Aesthetic](https://github.com/LAION-AI/laion-datasets/blob/main/laion-aesthetic.md),
 a version of LAION 5b filtered using around 4000 ratings.
 
-Special thanks to [Victor Weaver](https://github.com/victorweaver) (twitter: [@_victorweaver](https://twitter.com/@_victorweaver) for his early feedback and suggestions on the bot, as well as writing the initial public domain prompt and rating dataset that allowed us to make LAION-aesthetic as early as we did.
+Special thanks to [Victor Weaver](https://github.com/victorweaver) (twitter: [@_victorweaver](https://twitter.com/@_victorweaver)) for his early feedback and suggestions on the bot, as well as writing the initial public domain prompt and rating dataset that allowed us to make LAION-aesthetic as early as we did.
 
 ## Download
 
