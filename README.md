@@ -18,7 +18,8 @@ can be used for projects such as:
 * Extracting vitamin phrases ("trending on artstation", etc)
 * Alignment Research
 
-Because earlier versions of SimulacraBot used a separate upscaler to make latent
+Because earlier versions of [SimulacraBot](https://github.com/JD-P/simulacrabot)
+used a separate upscaler to make latent
 GLIDE outputs palatable to users the dataset also includes limited contrastive
 data. It consists of which images were chosen to be upscaled from each batch
 with 12,648 samples, or about 2000 batches. The resulting upscaled images are
