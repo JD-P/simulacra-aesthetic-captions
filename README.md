@@ -110,7 +110,7 @@ below:
 |2  | A painting of a swamp at low tide. There is a small portion of a castle and a patch of blue sky in the far off distance. | Watermarked
 |3  | fantasy illustration of a river of blood, flowing through a field of bones.| Wrong caption
 |4  | full color inkscape digital art of a hackers lair bedroom computer setup battlestation | Weak prompt fit 
-|5  | traditional dark Hijab Muslim Woman Islam Girl Portrait Fashion People Model Eyes oil on canvas | Dislikes Islam
+|5  | traditional dark Hijab Muslim Woman Islam Girl Portrait Fashion People Model Eyes oil on canvas | Quality vs. Islam Sentiment
 |6  | accurate beautiful cute anime symmetric danbooru chibi depiction of a magical girl | Anime
 |7  | A portrait painting of Adolf Hitler                                        | Quality vs. Subject
 |8  | detailed accurate krita digital masterpiece commissioned street scene of a cyberpunk Tokyo market stall, artstation matte painting | Urban/Modern
