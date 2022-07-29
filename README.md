@@ -38,12 +38,12 @@ Special thanks to [Victor Weaver](https://github.com/victorweaver) (twitter: [@_
 The index of Simulacra Aesthetic Captions is a sqlite database containing all
 information and metadata besides the images themselves:
 
-```curl -OL https://github.com/JD-P/simulacra-aesthetic-captions/blob/main/sac_public_2022_06_29.sqlite```
+```curl -OL https://raw.githubusercontent.com/JD-P/simulacra-aesthetic-captions/main/sac_public_2022_06_29.sqlite```
 
-The images in version 1.0 of Simulacra Aesthetic Captions are split up into 86 tar files and
-can be downloaded from their bucket with the following cURL command:
+The images in version 1.0 of Simulacra Aesthetic Captions can be downloaded from
+their bucket with the following cURL command:
 
-```curl -OL https://s3.us-west-1.wasabisys.com/simulacrabot/simulacra-aesthetic-captions/sac-{000000..000086}.tar```
+```curl -OL https://s3.us-west-1.wasabisys.com/simulacrabot/sac.tar```
 
 ### Suggested Citation
 
